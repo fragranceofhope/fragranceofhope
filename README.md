@@ -2,17 +2,17 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=LORDOFSCREENS&label=Flowers%20Bloomed&labelColor=%23f1b376&countColor=%23a66257&style=flat-square&labelStyle=none)
 
-<img src="https://file.garden/akdyLFp1FDtnmq6d/jaroma.png" alt="art by: @marzlucek" width="700" /><br>
+<img src="https://file.garden/akdyLFp1FDtnmq6d/flowerygraphic.png" alt="art by: @marzlucek" width="700" /><br>
 
 <table>
   <tr>
     <th>
 
 <br>
- $\color{#f9d49d}{\textsf{ ❁⊱༻ Coru / Benrey ༺⊰❁ }}$ <br>
- $\color{#e99569}{\textsf{ [ SHE / HE ] }}$ <br>
-$\color{#bc5953}{\textsf{ C+H is encouraged. W2I / IWC. Offtabs very frequently }}$ <br>
- $\color{#934948}{\textsf{ Sign my ATA + Strawpage Below :-) }}$ <br>
+ $\color{#dbb6ab}{\textsf{ ❁⊱༻ Coru / Benrey ༺⊰❁ }}$ <br>
+ $\color{#f1ae70}{\textsf{ [ SHE / HE ] }}$ <br>
+$\color{#d77b5b}{\textsf{ C+H is encouraged. W2I / IWC. Offtabs very frequently }}$ <br>
+ $\color{#bd5563}{\textsf{ Sign my ATA + Strawpage Below :-) }}$ <br>
  <br>
  
 
