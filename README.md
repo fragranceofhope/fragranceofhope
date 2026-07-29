@@ -1,6 +1,6 @@
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=LORDOFSCREENS&label=Flowers%20Bloomed&labelColor=%23f1b376&countColor=%23a66257&style=flat-square&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=LORDOFSCREENS&label=My%20RECRUITs!&labelColor=%23f2b782&countColor=%23ae4069&labelStyle=none)
 
 <img src="https://file.garden/akdyLFp1FDtnmq6d/flowerygraphic.png" alt="art by: @marzlucek" width="700" /><br>
 
@@ -31,5 +31,5 @@ $\color{#d77b5b}{\textsf{ C+H is encouraged. W2I / IWC. Offtabs very frequently 
 <br>
 
 
-<img src="https://file.garden/akdyLFp1FDtnmq6d/flower" alt="" width="100" /><br>
+<img src="https://file.garden/akdyLFp1FDtnmq6d/goldenflower.png" alt="A Golden Flower" width="100" /><br>
 
