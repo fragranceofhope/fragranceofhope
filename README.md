@@ -25,7 +25,7 @@ $\color{#d77b5b}{\textsf{ C+H is encouraged. W2I / IWC. Offtabs very frequently 
 
 <br>
 
-**[ATABOOK](https://coruscants.atabook.org/)** + **[STRAWPAGE](https://flowercastle.straw.page)**
+**[★](https://coruscants.atabook.org/)**  **[☾](https://flowercastle.straw.page)**
 <br>
 <br>
 **[MAIN](https://github.com/the-gongoozler)**
