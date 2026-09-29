@@ -14,9 +14,17 @@
 $\color{#d77b5b}{\textsf{ C+H is encouraged. W2I / IWC. Offtabs very frequently }}$ <br>
  $\color{#bd5563}{\textsf{ Sign my ATA + Strawpage Below :-) }}$ <br>
  <br>
- 
+
+
+ <details closed>
+  <summary> ${{\color{#efc88d}  ✿}} $</summary>
+<br>
+
 [Cosplaytown](https://github.com/cosplaytown) $\color{#772f4c}{\textsf{ 's Flowery}}$ <br>
- <br>
+[kaotown](https://github.com/kaotown) $\color{#772f4c}{\textsf{ 's Flowery}}$ <br>
+[choco-town](https://github.com/choco-town) $\color{#772f4c}{\textsf{ 's Flowery}}$ <br>
+<br>
+<br>
  
 
  </th>
